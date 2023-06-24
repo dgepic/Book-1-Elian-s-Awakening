@@ -73,7 +73,7 @@
 
 **Appendices**
 
-A. Glossary of Terms
-B. Further Reading and Resources
-C. Exercises and Practice Activities
-D. Interviews with Noted Adepts and Scholars
+* A. Glossary of Terms
+* B. Further Reading and Resources
+* C. Exercises and Practice Activities
+* D. Interviews with Noted Adepts and Scholars
