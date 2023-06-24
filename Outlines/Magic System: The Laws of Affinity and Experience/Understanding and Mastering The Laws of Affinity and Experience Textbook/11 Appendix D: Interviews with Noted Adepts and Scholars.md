@@ -44,7 +44,7 @@
 
 * Q10: What is your vision for the future of fire magic in Eldoria? Aria Fireheart: I envision a future where fire magic is respected and harnessed responsibly for the betterment of society. I hope to see increased collaboration among magic users, sharing knowledge and techniques to further unlock the potential of fire magic in various fields such as engineering, agriculture, and healing.
 
-## Interview with Aria, the Shapeshifter Adept
+## Interview 3: Aria - Shapeshifter Adept
 
 * Q: How did you discover your Shapeshifting Affinity? A: It was a gradual process for me. As a child, I always felt a deep connection to animals and observed their behaviors with fascination. It wasn't until I was a teenager that I started experiencing moments of transformation. It started with small changes, like my eyes briefly taking on the color of a bird I was observing or my fingers elongating when I reached for something. Over time, I learned to control and channel this ability, realizing that I had a unique Affinity for shapeshifting.
 
