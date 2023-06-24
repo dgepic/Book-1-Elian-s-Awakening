@@ -2,9 +2,9 @@
 
 **1 - Introduction**
 
-*1.1 Understanding Magic: An Overview
-*1.2 The Laws of Affinity and Experience: A Brief History
-*1.3 Eldoria: A Land of Magic and Science
+* 1.1 Understanding Magic: An Overview
+* 1.2 The Laws of Affinity and Experience: A Brief History
+* 1.3 Eldoria: A Land of Magic and Science
 
 **2 - The Regions of Eldoria: Magic, Culture, and Society**
 
