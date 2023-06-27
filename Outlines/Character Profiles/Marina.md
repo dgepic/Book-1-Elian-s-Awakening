@@ -1,3 +1,5 @@
+Character Name: Marina
+
 Role in the Story: Marina is a key supporting character who serves as an envoy from Aquarius. She plays a crucial role in guiding the group through Aquarius and helping them gain the support of Aquarius's leaders.
 
 Background: Marina's background is shrouded in mystery. As an envoy from Aquarius, she is well-versed in the unique culture and lifestyle of her region. She has a deep understanding of Aquarius's history and is respected by its leaders.
