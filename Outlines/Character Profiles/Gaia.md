@@ -1,3 +1,5 @@
+Character Name: Gaia
+
 Role in the Story: Gaia is a key supporting character in the story. She is a peacekeeper from the harmonious coalition of Terra and becomes an ally to Elian in his journey.
 
 Background: Gaia hails from Terra, a region known for its harmonious living and deep connection with nature. As a peacekeeper, she is tasked with maintaining harmony in her region and resolving conflicts that arise.
