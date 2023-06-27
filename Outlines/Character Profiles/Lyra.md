@@ -1,3 +1,5 @@
+Character Name: Lyra
+
 Role in the Story: Lyra is a key supporting character in the story. She is one of the allies Elian meets on his journey and plays a significant role in his quest to confront Morwen.
 
 Background: Lyra hails from the kingdom of Lunaris, a region known for its deep connection to tradition and mysticism. As a skilled mage, Lyra has a profound understanding of the magical aspects of Eldoria and is well-versed in the unique rules of the world.
