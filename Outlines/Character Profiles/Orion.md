@@ -1,3 +1,5 @@
+Character Name: Orion
+
 Role in Story: Ally to Elian
 
 Occupation: Inventor
