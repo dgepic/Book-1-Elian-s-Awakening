@@ -1,3 +1,5 @@
+Character Name: Zephyr
+
 Role in the Story: Ally to Elian and member of the group.
 
 Occupation: Nomadic warrior from Ventus.
