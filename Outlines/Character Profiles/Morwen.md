@@ -1,3 +1,5 @@
+Character Name: Morwen
+
 Role in the Story: Primary Antagonist
 
 Background: Morwen is a powerful figure from Eldoria who seeks to control the entire continent. His past is shrouded in mystery, but it's known that he has risen to power through cunning and ruthless tactics. His ambition and ruthlessness have earned him a reputation of fear across Eldoria.
