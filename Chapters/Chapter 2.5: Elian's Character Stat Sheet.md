@@ -1,6 +1,6 @@
 # Elian's Character Stat Sheet
 
-* Character Name: Elian
+* Character Name: Elian Malone
 * Gender: Male
 * Race: Human (Earth)
 
