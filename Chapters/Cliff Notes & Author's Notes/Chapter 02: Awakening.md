@@ -20,4 +20,34 @@ Themes: The themes of survival, adaptation, and the quest for understanding are 
 
 Writing Style: The use of detailed descriptions and metaphors helps to create a vivid and immersive picture of the world Elian finds himself in. The pacing of the story is steady, with a balance of action, introspection, and discovery.
 
-Future Direction: This chapter sets the stage for Elian's future interactions with the other beings and his continued exploration of this magical world. His quest for survival and understanding will continue to drive the story forward.
+Character Stats: In this chapter, Elian's stats screen is introduced. The initial stats are as follows:
+* Health: 1
+* Strength: 1
+* Stamina: 1
+* Understanding: 1
+* Perception: 1
+* Charisma: 1
+* Social: 1
+* Luck: 1
+* Speed: 1
+* Agility: 1
+* Power: 1
+* Experience Multiplier: 1
+* Learning Multiplier: 1.5
+
+As Elian explores the forest and practices using his Inner Sight ability, his Strength and Stamina stats increase by one. The updated stats are:
+* Health: 1
+* Strength: 2 (increased by 1)
+* Stamina: 2 (increased by 1)
+* Understanding: 1
+* Perception: 1
+* Charisma: 1
+* Social: 1
+* Luck: 1
+* Speed: 1
+* Agility: 1
+* Power: 1
+* Experience Multiplier: 1
+* Learning Multiplier: 1.5
+
+Future Direction: This chapter sets the stage for Elian's future interactions with the other beings and his continued exploration of this magical world. His quest for survival and understanding will continue to drive the story forward. His stats will likely continue to change as he gains more experience and learns more about this world.
