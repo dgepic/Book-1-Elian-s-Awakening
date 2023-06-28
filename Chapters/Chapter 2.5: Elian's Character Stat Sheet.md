@@ -1,8 +1,8 @@
 # Elian's Character Stat Sheet
 
-Character Name: Elian
-Gender: Male
-Race: Human (Earth)
+* Character Name: Elian
+* Gender: Male
+* Race: Human (Earth)
 
 ### Affinity:
 Universal (Concept) - Grants the capacity to learn all abilities, but each operates at half strength. The exception is 'Inner Sight', which remains fully effective. If an ability is learned from a master, its effectiveness is only reduced by 25%.
