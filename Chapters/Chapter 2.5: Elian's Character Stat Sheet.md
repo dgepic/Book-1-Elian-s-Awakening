@@ -26,7 +26,7 @@ Universal (Concept) - Grants the capacity to learn all abilities, but each opera
 * Agility: 1
 * Power: 1
 
-### Study (Study stat is the combined values of Experience Multiplier & Learning Multiplier)
+### Study 2.5 (Study stat is the combined values of Experience Multiplier & Learning Multiplier)
 * Experience Multiplier: 1
 * Learning Multiplier: 1.5
 
