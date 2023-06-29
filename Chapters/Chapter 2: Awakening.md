@@ -1,6 +1,6 @@
 Chapter 2: "Awakening"
 
-Inhaling the essence of the unfamiliar, Elian summoned the strength within him, pushing off the earth beneath him to rise. The forest was a labyrinth of life, a narrow path weaving its way through the towering sentinels of nature, a serpentine ribbon in the heart of the wilderness. With a heart echoing the rhythm of an ancient drum, he followed the path, his eyes drinking in the spectacle of the alien flora and fauna that claimed this landscape as their own.
+The forest was a labyrinth of life, a narrow path weaving its way through the towering sentinels of nature, a serpentine ribbon in the heart of the wilderness. With a heart echoing the rhythm of an ancient drum, he followed the path, his eyes drinking in the spectacle of the alien flora and fauna that claimed this landscape as their own.
 
 "Strange... but beautiful," he murmured to himself, his voice barely a whisper against the symphony of the forest.
 
