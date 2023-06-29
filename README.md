@@ -3,6 +3,8 @@
 * Wattpad: https://www.wattpad.com/story/345294870-elian%27s-awakening
 * Neobook: https://neobook.org/book/afThrY73YF5ou107/
 
+---
+
 Presenting Book One: Elian's Awakening, a groundbreaking literary endeavor that utilizes ChatGPT to enrich the storytelling experience. Below are the ChatGPT threads incorporated in this book series:
 
 * Thread 1 (https://chat.openai.com/share/14407d83-c7d5-4458-b009-c83c19789bcc)
