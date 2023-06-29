@@ -22,7 +22,7 @@ Elian blinked in surprise at this unexpected apparition. He reached out to touch
 
 "Is this... is this real?" he asked aloud, his voice echoing in the silence. "Am I... am I in a game?"
 
-He examined each attribute closely – all were set at one except for Learning Multiplier which stood at 1.5. He vaguely remembered reading about something similar in one of his favorite fantasy novels where characters had similar stats that they could improve by gaining experience. But that was fiction – this was reality.
+He examined each attribute closely – all were set at 1 except for Learning Multiplier which stood at 1.5. He vaguely remembered reading about something similar in one of his favorite fantasy novels where characters had similar stats that they could improve by gaining experience. But that was fiction – this was reality.
 
 A chill ran down Elian's spine at this realization – he wasn't dreaming. He had been transported into a fantasy world akin to those he had only read about in novels. Shaking his head in an attempt to clear his thoughts, he decided to stay calm and figure out what was happening.
 
